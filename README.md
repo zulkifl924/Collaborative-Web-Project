@@ -1,56 +1,113 @@
-# 🧪 ICT Lab 7 – Collaborative Web Project (GitHub + HTML + Bootstrap)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/issues/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/license/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="License Badge"/>
+</p>
+
+# Collaborative Web Project (GitHub + HTML)
 
 ### 🎯 Objective
-Work collaboratively as a **team of three** to create personal HTML portfolio pages using **Bootstrap** and manage them through **GitHub Desktop**.
+To practice real teamwork on GitHub by creating individual HTML profile pages inside a shared repository using Bootstrap. This lab demonstrates how to add collaborators, commit changes, and sync updates within a small team.
 
-Each team member will create and edit their own webpage inside the shared repository, following real teamwork workflows (commit → push → pull).
+---
+
+## 🧩 Group Structure
+Each group will consist of 3 members:
+groupleader/
+teammate1/
+teammate2/
+Each member works only inside their assigned folder and creates a personal webpage named index.html.
 
 ---
 
 ## 🧭 Instructions
 
-### 🧩 Folder Structure
-The repository contains three folders:
-groupleader/
-teammate1/
-teammate2/
-
-
-Each member will work **only inside their assigned folder** and create a file named `index.html`.
-
----
-
-### 🚀 Steps
-
-#### 1️⃣ Clone the Repository
-- Open **GitHub Desktop**  
-- Go to **File → Clone Repository → URL**  
-- Paste this repository link:
-  https://github.com/AdnanAdj/Collaborative-Web-Project
-
-  - Choose a local folder and click **Clone**
-
-#### 2️⃣ Open Your Folder
-- Navigate to your assigned folder (e.g., `teammate1/`)
-- Copy the provided `sample.html` file into your folder
-- Rename it to `index.html`
-
-#### 3️⃣ Customize Your Page
-- Replace the placeholder details (name, image, skills, etc.) with your own
-- Save the file
-- Preview it by opening `index.html` in your browser
-
-#### 4️⃣ Commit and Push
-In **GitHub Desktop**:
-1. Check your changed files  
-2. Add a summary like:  "Added my portfolio page"
-3. Click **Commit to main**  
-4. Click **Push origin** to upload your work
-
-#### 5️⃣ Pull Team Updates
-- After everyone pushes their work, click **Fetch origin → Pull origin**  
-to get the latest team files
+### 🥇 Step 1: Fork and Clone
+1. The Group Leader forks the instructor’s repository:  
+   [https://github.com/AdnanAdj/ICT-Lab7-WebCollab  ](https://github.com/AdnanAdj/Collaborative-Web-Project)
+2. The leader then clones their fork using GitHub Desktop:  
+   - Go to File → Clone Repository → URL  
+   - Paste their fork link (not the instructor’s)  
+   - Choose a local folder → Clone
 
 ---
 
+### 🥈 Step 2: Add Collaborators
+- On GitHub, the leader goes to: Settings → Collaborators → Add people  
+- Add both teammates by their GitHub usernames or emails.  
+- Each teammate must accept the invitation from their email or GitHub notifications.
 
+---
+
+### 🥉 Step 3: Create and Edit Folders
+Each team member:  
+1. Opens the cloned repo folder locally.  
+2. Goes to their assigned folder (groupleader/, teammate1/, or teammate2/).  
+3. Copies the provided sample.html file into their folder.  
+4. Renames it to index.html.  
+5. Edits the HTML with:  
+   - Their name and details  
+   - Profile image  
+   - Skills and teammates list  
+   - Any creative content they like  
+(Open the file in a browser to preview changes.)
+
+---
+
+### 🚀 Step 4: Commit and Push
+Each member:  
+1. Opens GitHub Desktop.  
+2. Checks their changed files.  
+3. Adds a summary like: Added my Bootstrap HTML profile page  
+4. Clicks Commit to main  
+5. Clicks Push origin to upload to GitHub.
+
+---
+
+### 🔄 Step 5: Pull Updates
+After all members have pushed their work:  
+- Everyone clicks Fetch origin → Pull origin to sync the latest updates from teammates.  
+- All three folders (groupleader/, teammate1/, teammate2/) should now appear in the repository.
+
+---
+
+### 💡 Optional Enhancement
+Create a homepage index.html in the root folder linking to all team pages:
+<ul>
+  <li><a href="groupleader/index.html">Group Leader’s Page</a></li>
+  <li><a href="teammate1/index.html">Teammate 1’s Page</a></li>
+  <li><a href="teammate2/index.html">Teammate 2’s Page</a></li>
+</ul>
+This makes a mini team website hosted on GitHub.
+
+---
+
+## ✅ Deliverables
+Each group must submit:  
+- Link to their team repository (leader’s repo)  
+- Screenshot showing all three folders on GitHub  
+- Screenshot of each member’s HTML page in browser  
+- Screenshot of GitHub Desktop commit
+
+---
+
+## 🧠 Learning Outcomes
+By the end of this lab, students will be able to:  
+- Collaborate using GitHub (add collaborators, manage commits)  
+- Use Bootstrap for quick, responsive web design  
+- Apply commit–push–pull workflow in a shared environment  
+- Understand how web and version control integrate in ICT
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Coding GIF"/><br>
+  <b>Made with ❤️ for BSIT Students</b>
+</p>
+
+
+---
+
+**Instructor:** Adnan Jelani  
+**Course:** Introduction to ICT – Lab 7  
+**Semester:** Fall 2025
