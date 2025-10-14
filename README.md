@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/github/stars/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Stars Badge"/>
-  <img src="https://img.shields.io/github/forks/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Forks Badge"/>
-  <img src="https://img.shields.io/github/issues/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Issues Badge"/>
-  <img src="https://img.shields.io/github/license/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="License Badge"/>
+  <img src="https://img.shields.io/github/stars/AdnanAdj/Collaborative-Web-Project?style=flat-square" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/AdnanAdj/Collaborative-Web-Project?style=flat-square" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/issues/AdnanAdj/Collaborative-Web-Project?style=flat-square" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/license/AdnanAdj/Collaborative-Web-Project?style=flat-square" alt="License Badge"/>
 </p>
 
 # Collaborative Web Project (GitHub + HTML)
