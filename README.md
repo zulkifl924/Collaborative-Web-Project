@@ -25,7 +25,7 @@ Each member works only inside their assigned folder and creates a personal webpa
 
 ### 🥇 Step 1: Fork and Clone
 1. The Group Leader forks the instructor’s repository:  
-   [https://github.com/AdnanAdj/ICT-Lab7-WebCollab  ](https://github.com/AdnanAdj/Collaborative-Web-Project)
+    https://github.com/AdnanAdj/Collaborative-Web-Project
 2. The leader then clones their fork using GitHub Desktop:  
    - Go to File → Clone Repository → URL  
    - Paste their fork link (not the instructor’s)  
