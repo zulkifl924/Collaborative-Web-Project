@@ -1,29 +1,56 @@
 # 🧪 ICT Lab 7 – Collaborative Web Project (GitHub + HTML + Bootstrap)
 
 ### 🎯 Objective
-Work in groups of three to create individual HTML profile pages using Bootstrap, commit them to GitHub, and collaborate by pushing and pulling each other’s work.
+Work collaboratively as a **team of three** to create personal HTML portfolio pages using **Bootstrap** and manage them through **GitHub Desktop**.
+
+Each team member will create and edit their own webpage inside the shared repository, following real teamwork workflows (commit → push → pull).
 
 ---
 
-### 🧭 Steps
+## 🧭 Instructions
 
-1. **Form a group of three.**
-2. **One member forks** this repo and adds teammates as **collaborators**.
-3. Each member:
-   - Creates a folder named after themselves (e.g. `Ali/`, `Sara/`, `Hassan/`)
-   - Adds an `index.html` file (use the provided `sample.html` as a base)
-   - Commits and pushes changes
-4. All members **Pull origin** to sync the latest updates.
+### 🧩 Folder Structure
+The repository contains three folders:
+groupleader/
+teammate1/
+teammate2/
 
----
 
-### 🧩 Deliverables
-- Repository link  
-- Screenshot showing team folders  
-- Screenshot of your HTML page in browser  
-- Screenshot of your GitHub Desktop commit
+Each member will work **only inside their assigned folder** and create a file named `index.html`.
 
 ---
 
-### 💡 Tip
-Keep all edits inside your own folder to avoid conflicts.
+### 🚀 Steps
+
+#### 1️⃣ Clone the Repository
+- Open **GitHub Desktop**  
+- Go to **File → Clone Repository → URL**  
+- Paste this repository link:
+  https://github.com/AdnanAdj/Collaborative-Web-Project
+
+  - Choose a local folder and click **Clone**
+
+#### 2️⃣ Open Your Folder
+- Navigate to your assigned folder (e.g., `teammate1/`)
+- Copy the provided `sample.html` file into your folder
+- Rename it to `index.html`
+
+#### 3️⃣ Customize Your Page
+- Replace the placeholder details (name, image, skills, etc.) with your own
+- Save the file
+- Preview it by opening `index.html` in your browser
+
+#### 4️⃣ Commit and Push
+In **GitHub Desktop**:
+1. Check your changed files  
+2. Add a summary like:  "Added my portfolio page"
+3. Click **Commit to main**  
+4. Click **Push origin** to upload your work
+
+#### 5️⃣ Pull Team Updates
+- After everyone pushes their work, click **Fetch origin → Pull origin**  
+to get the latest team files
+
+---
+
+
