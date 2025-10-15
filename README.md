@@ -72,17 +72,6 @@ After all members have pushed their work:
 
 ---
 
-### 💡 Optional Enhancement
-Create a homepage index.html in the root folder linking to all team pages:
-<ul>
-  <li><a href="groupleader/index.html">Group Leader’s Page</a></li>
-  <li><a href="teammate1/index.html">Teammate 1’s Page</a></li>
-  <li><a href="teammate2/index.html">Teammate 2’s Page</a></li>
-</ul>
-This makes a mini team website hosted on GitHub.
-
----
-
 ## ✅ Deliverables
 Each group must submit:  
 - Link to their team repository (leader’s repo)  
@@ -90,14 +79,6 @@ Each group must submit:
 - Screenshot of each member’s HTML page in browser  
 - Screenshot of GitHub Desktop commit
 
----
-
-## 🧠 Learning Outcomes
-By the end of this lab, students will be able to:  
-- Collaborate using GitHub (add collaborators, manage commits)  
-- Use Bootstrap for quick, responsive web design  
-- Apply commit–push–pull workflow in a shared environment  
-- Understand how web and version control integrate in ICT
 
 
 <p align="center">
